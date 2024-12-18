@@ -26,8 +26,8 @@ Basicamente, o desafio consistia em construir uma página contendo a receita de 
 
 ### Links
 
-- Solução URL: [URL da solução](https://your-solution-url.com)
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- Solução URL: [URL da solução](https://github.com/moisesferreira123/recipe-page-project)
+- Live Site URL: [Live site URL](https://moisesferreira123.github.io/recipe-page-project/)
 
 
 ## Construído com
